@@ -1,0 +1,25 @@
+---
+# This is a comment
+Some text here
+
+More text
+
+---
+
+Another block
+# Comment line
+
+# Another comment line
+Not a comment line
+
+---
+
+Final block
+# Comment line
+# Another comment line
+
+---
+
+---
+# test comment only
+---
